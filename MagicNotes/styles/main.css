@@ -1,0 +1,10 @@
+.main-container {
+    padding-bottom: 60px;
+}
+
+footer {
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+    background-color: crimson;
+}
